@@ -1,0 +1,502 @@
+[
+  {
+    "name": "service-00",
+    "url": "https://static.tildacdn.com/tild6436-3464-4961-a363-653263303532/burger.png",
+    "source": "https://chistoteca.ru/",
+    "size": [
+      40,
+      40
+    ]
+  },
+  {
+    "name": "service-01",
+    "url": "https://static.tildacdn.com/tild3232-3437-4537-a639-663739633635/19a3a58d-2e88-40a5-9.png",
+    "source": "https://chistoteca.ru/",
+    "size": [
+      1680,
+      884
+    ]
+  },
+  {
+    "name": "service-02",
+    "url": "https://static.tildacdn.com/tild3436-3032-4963-b461-306362613736/1a0bf149-94bc-43a2-b.png",
+    "source": "https://chistoteca.ru/",
+    "size": [
+      1680,
+      884
+    ]
+  },
+  {
+    "name": "service-03",
+    "url": "https://static.tildacdn.com/tild3935-3366-4130-a432-363665333335/Frame_27.png",
+    "source": "https://chistoteca.ru/",
+    "size": [
+      272,
+      384
+    ]
+  },
+  {
+    "name": "service-04",
+    "url": "https://static.tildacdn.com/tild6465-6565-4462-b830-626564393537/Frame_28.png",
+    "source": "https://chistoteca.ru/",
+    "size": [
+      272,
+      384
+    ]
+  },
+  {
+    "name": "service-05",
+    "url": "https://static.tildacdn.com/tild6438-3631-4136-a664-633737303733/Frame_29.png",
+    "source": "https://chistoteca.ru/",
+    "size": [
+      272,
+      384
+    ]
+  },
+  {
+    "name": "service-06",
+    "url": "https://static.tildacdn.com/tild3662-6463-4638-b338-306532396366/Frame_30.png",
+    "source": "https://chistoteca.ru/",
+    "size": [
+      272,
+      384
+    ]
+  },
+  {
+    "name": "service-07",
+    "url": "https://static.tildacdn.com/tild3364-3866-4230-b234-383163353338/8abd0f8a-8b96-490d-8.png",
+    "source": "https://chistoteca.ru/",
+    "size": [
+      1088,
+      1584
+    ]
+  },
+  {
+    "name": "service-08",
+    "url": "https://static.tildacdn.com/tild3831-3931-4030-b462-366165313435/d5520331-90c5-4302-9.png",
+    "source": "https://chistoteca.ru/",
+    "size": [
+      1088,
+      1088
+    ]
+  },
+  {
+    "name": "service-09",
+    "url": "https://static.tildacdn.com/tild3065-3236-4231-a137-386534346662/Rectangle_25.png",
+    "source": "https://chistoteca.ru/",
+    "size": [
+      272,
+      272
+    ]
+  },
+  {
+    "name": "service-10",
+    "url": "https://static.tildacdn.com/tild3565-3165-4565-b632-623939323466/26ddbe89-01a6-4800-b.png",
+    "source": "https://chistoteca.ru/",
+    "size": [
+      1088,
+      1088
+    ]
+  },
+  {
+    "name": "service-11",
+    "url": "https://static.tildacdn.com/tild3365-3462-4563-a665-363235303366/8f747d6f-353a-46a3-9.png",
+    "source": "https://chistoteca.ru/",
+    "size": [
+      1088,
+      1088
+    ]
+  },
+  {
+    "name": "service-12",
+    "url": "https://static.tildacdn.com/tild6634-3865-4132-a636-336130663035/e41e2ada-db83-4b2f-b.png",
+    "source": "https://chistoteca.ru/",
+    "size": [
+      1088,
+      1088
+    ]
+  },
+  {
+    "name": "service-13",
+    "url": "https://static.tildacdn.com/tild3064-3666-4264-b932-363863356338/a26c9f29-80ab-4d0f-8.png",
+    "source": "https://chistoteca.ru/",
+    "size": [
+      1088,
+      1088
+    ]
+  },
+  {
+    "name": "service-14",
+    "url": "https://static.tildacdn.com/tild6662-3631-4561-a261-373266353634/Rectangle_24.png",
+    "source": "https://chistoteca.ru/",
+    "size": [
+      272,
+      272
+    ]
+  },
+  {
+    "name": "service-15",
+    "url": "https://static.tildacdn.com/tild3135-3934-4531-a634-393237363135/7415650b-aa20-4f02-9.png",
+    "source": "https://chistoteca.ru/",
+    "size": [
+      1088,
+      1088
+    ]
+  },
+  {
+    "name": "service-16",
+    "url": "https://static.tildacdn.com/tild3066-6339-4136-b834-656531653836/3bbf43c3-347c-4785-a.png",
+    "source": "https://chistoteca.ru/",
+    "size": [
+      1088,
+      1584
+    ]
+  },
+  {
+    "name": "service-17",
+    "url": "https://static.tildacdn.com/tild3466-3731-4162-b339-663831353136/Frame_102.png",
+    "source": "https://chistoteca.ru/",
+    "size": [
+      56,
+      56
+    ]
+  },
+  {
+    "name": "service-18",
+    "url": "https://static.tildacdn.com/tild3034-6431-4465-b839-373238373261/Frame_102_1.png",
+    "source": "https://chistoteca.ru/",
+    "size": [
+      56,
+      56
+    ]
+  },
+  {
+    "name": "service-19",
+    "url": "https://static.tildacdn.com/tild6361-3966-4466-b061-336331336335/Frame_102_2.png",
+    "source": "https://chistoteca.ru/",
+    "size": [
+      56,
+      56
+    ]
+  },
+  {
+    "name": "service-20",
+    "url": "https://static.tildacdn.com/tild3531-3033-4939-a235-393565653563/Frame_102_3.png",
+    "source": "https://chistoteca.ru/",
+    "size": [
+      56,
+      56
+    ]
+  },
+  {
+    "name": "service-21",
+    "url": "https://static.tildacdn.com/tild3834-3033-4739-b339-333464646233/Frame_102_4.png",
+    "source": "https://chistoteca.ru/",
+    "size": [
+      56,
+      56
+    ]
+  },
+  {
+    "name": "service-22",
+    "url": "https://static.tildacdn.com/tild3165-6533-4132-b166-313535656337/Frame_102_5.png",
+    "source": "https://chistoteca.ru/",
+    "size": [
+      56,
+      56
+    ]
+  },
+  {
+    "name": "service-23",
+    "url": "https://static.tildacdn.com/tild3732-3464-4836-b834-306635633237/55bf77b1-df90-486f-8.png",
+    "source": "https://chistoteca.ru/",
+    "size": [
+      256,
+      256
+    ]
+  },
+  {
+    "name": "service-24",
+    "url": "https://static.tildacdn.com/tild3633-3230-4361-b139-373933393239/1-21.jpg",
+    "source": "https://chistoteca.ru/",
+    "size": [
+      1000,
+      1000
+    ]
+  },
+  {
+    "name": "service-25",
+    "url": "https://static.tildacdn.com/tild3839-6233-4361-a466-636662343636/Rectangle_43.png",
+    "source": "https://chistoteca.ru/",
+    "size": [
+      464,
+      460
+    ]
+  },
+  {
+    "name": "service-26",
+    "url": "https://static.tildacdn.com/tild6330-3462-4664-b331-636537346530/0001.jpg",
+    "source": "https://chistoteca.ru/",
+    "size": [
+      1149,
+      1669
+    ]
+  },
+  {
+    "name": "service-27",
+    "url": "https://static.tildacdn.com/tild3161-6231-4562-b232-363261653262/0001.jpg",
+    "source": "https://chistoteca.ru/",
+    "size": [
+      1168,
+      1669
+    ]
+  },
+  {
+    "name": "academy-00",
+    "url": "https://static.tildacdn.com/tild6636-6138-4164-b439-646531646665/Group_1115.png",
+    "source": "https://chisto.academy/obuchenie",
+    "size": [
+      859,
+      972
+    ]
+  },
+  {
+    "name": "academy-01",
+    "url": "https://static.tildacdn.com/tild3434-3261-4135-b966-366234366230/image_384.png",
+    "source": "https://chisto.academy/obuchenie",
+    "size": [
+      218,
+      152
+    ]
+  },
+  {
+    "name": "academy-02",
+    "url": "https://static.tildacdn.com/tild3130-3334-4362-a334-313738336232/Frame_561_1.png",
+    "source": "https://chisto.academy/obuchenie",
+    "size": [
+      458,
+      152
+    ]
+  },
+  {
+    "name": "academy-03",
+    "url": "https://static.tildacdn.com/tild3635-6162-4535-b733-353435313466/image_235.png",
+    "source": "https://chisto.academy/obuchenie",
+    "size": [
+      148,
+      152
+    ]
+  },
+  {
+    "name": "academy-04",
+    "url": "https://static.tildacdn.com/tild3332-6431-4263-b436-353139663630/Mask_group_18.png",
+    "source": "https://chisto.academy/obuchenie",
+    "size": [
+      178,
+      140
+    ]
+  },
+  {
+    "name": "academy-05",
+    "url": "https://static.tildacdn.com/tild3665-3431-4438-b233-653166336234/_.png",
+    "source": "https://chisto.academy/obuchenie",
+    "size": [
+      209,
+      151
+    ]
+  },
+  {
+    "name": "academy-06",
+    "url": "https://static.tildacdn.com/tild6135-3730-4334-a633-313233633566/image_234.png",
+    "source": "https://chisto.academy/obuchenie",
+    "size": [
+      206,
+      151
+    ]
+  },
+  {
+    "name": "academy-07",
+    "url": "https://static.tildacdn.com/tild3235-3030-4461-a565-346266313134/Group_1116.png",
+    "source": "https://chisto.academy/obuchenie",
+    "size": [
+      187,
+      148
+    ]
+  },
+  {
+    "name": "academy-08",
+    "url": "https://static.tildacdn.com/tild3535-3339-4838-b734-653837633836/photo.png",
+    "source": "https://chisto.academy/obuchenie",
+    "size": [
+      187,
+      140
+    ]
+  },
+  {
+    "name": "academy-09",
+    "url": "https://static.tildacdn.com/tild3335-3739-4536-a531-346463313537/Group_1118.png",
+    "source": "https://chisto.academy/obuchenie",
+    "size": [
+      512,
+      662
+    ]
+  },
+  {
+    "name": "academy-10",
+    "url": "https://static.tildacdn.com/tild3763-3030-4633-a563-323163616536/Group_1117.png",
+    "source": "https://chisto.academy/obuchenie",
+    "size": [
+      511,
+      662
+    ]
+  },
+  {
+    "name": "academy-11",
+    "url": "https://static.tildacdn.com/tild3261-3135-4735-b866-326437626566/Group_1032.png",
+    "source": "https://chisto.academy/obuchenie",
+    "size": [
+      435,
+      176
+    ]
+  },
+  {
+    "name": "academy-12",
+    "url": "https://static.tildacdn.com/tild6565-3161-4432-b038-386235303932/_1.png",
+    "source": "https://chisto.academy/obuchenie",
+    "size": [
+      437,
+      177
+    ]
+  },
+  {
+    "name": "academy-13",
+    "url": "https://static.tildacdn.com/tild3364-6264-4632-b866-386565616130/Group_1119.png",
+    "source": "https://chisto.academy/obuchenie",
+    "size": [
+      941,
+      1167
+    ]
+  },
+  {
+    "name": "academy-14",
+    "url": "https://static.tildacdn.com/tild3333-3662-4434-a661-303535353634/maxresdefault.jpg",
+    "source": "https://chisto.academy/obuchenie",
+    "size": [
+      1280,
+      720
+    ]
+  },
+  {
+    "name": "academy-15",
+    "url": "https://static.tildacdn.com/tild6561-3835-4833-b133-326638356533/noroot.png",
+    "source": "https://chisto.academy/obuchenie",
+    "size": [
+      567,
+      422
+    ]
+  },
+  {
+    "name": "academy-16",
+    "url": "https://static.tildacdn.com/tild3036-3739-4735-b662-346232653934/__2024-05-18__131108.png",
+    "source": "https://chisto.academy/obuchenie",
+    "size": [
+      1680,
+      1013
+    ]
+  },
+  {
+    "name": "post-1007",
+    "url": "https://cdn4.telesco.pe/file/ZB0sX9Q-TO8x3Im0tLTmhgBB6tIYj3Rtkb5QzSv7pIxjGaa3wNYLrOxuilMxrMlRdY1lKDMNNpBX7a9bH0AdnoXPia4O4umNb7SaZWE6gxP794UoM2A4A8EZ9uq_TSWufijQU0x5OCxwb6OLLF1BZLppxFW-7DOY-iGvN-zOqNsDVyc8BAMphlbey8fQBjX14QOH6Dbd34c69G6AqqDUqtheilWztG_Rf42VgFJpZIW76znuMxYuTd6No4St34HOUmwrrerTh-gFwnPfJQ-gnFFv7MFMzaeI0BkvIzQMzBHIK-BfH7z3kSGCX0Tqs2t6sjc54b-Mo_dfTcmQF_SyMA.jpg",
+    "source": "https://t.me/chisto_academy/1007",
+    "size": [
+      600,
+      800
+    ]
+  },
+  {
+    "name": "post-1008",
+    "url": "https://cdn4.telesco.pe/file/ZfNhp4Wm5U_77L4jiF5Q4XaReNjfmxDVQvDi_NdPk2vQ0TlUegJvqgYZwjGribq4SicafPqs2SqFvOIAwLeyB6MGmuTNCSny0Wgtk4Tw97ewlGx2zCfnFjEpMNQQF-mbP1EmaL_sblixmybAVXZ92swZJ8PDuLchupyFsb7B0fM2SzZ_bdEFOYB9QbJnL3alRhhtAbNM-ltlBmVQtDNx2ys8MDjJH2xn5Xj7TNNknHCHm_o395pU68HHWIjBwvK_e_xdHRquwNjxsxlHXr0NlApTpcMCmqVHvVWKpz5nbbg5OrNEGNrRyFd2wMjwMUUj5KZxecHLWTS-zD1n2Xrlsw.jpg",
+    "source": "https://t.me/chisto_academy/1008",
+    "size": [
+      600,
+      800
+    ]
+  },
+  {
+    "name": "post-1009",
+    "url": "https://cdn4.telesco.pe/file/O1r8wQ4CfFbgWfCkP-hN9prot5qtoM8aJ682Epf9KKyb9myO9tEgUo95m_AAc3-LIDxICxlCu0nNYwBa0aDkYgOP5ROotjRIFVLCm7vEJde8cvbRchxkRKD5TeAHjJVQTtG8JeW160wqRhVIXbg59jEw3vITzBjpEwZcMsXYp0jGMRSzGiQBplbXZHqza_DS3QvPVHVV8j7JfKYPxpwcUrj1xYzKgrk_mEY7iiMFhXJ-Jr_kr_3ijjF956-B4pjNlUCE4kVqiVX50lAqwv-qg0Y3VrKW-CSygRXX0rGYVrJU8eJHv35Ug7RDPRZ8aQYzxbd5MD2NEgWsMrq9oXaw-g.jpg",
+    "source": "https://t.me/chisto_academy/1009",
+    "size": [
+      600,
+      800
+    ]
+  },
+  {
+    "name": "post-1010",
+    "url": "https://cdn4.telesco.pe/file/VVeKvBbsV-9ZdhPYS9lO6TdjDaoXnzf_ZsN3rBV3uZjFyVd6dv2pGkc3Vv9AmPqVdXsDzFw6sTmUWJbP0D5kCwubcJIINQOmIotYiut8a8Y7joRI6e76gpN-Bso3Cbkvkg1eJYbbssyBr8aSrEo_4CcI6cFojsZGJtnE-cyBcNI0QP87VBBeeAWodf2Is_ReIJeOOg8MIlf6nC4eGczTwlocPHKOzHLaRVTEfHuC_aCQMf0u64AFS8XxZmL-Z3-s0OGJTkSpvJXjYYw1Kx54RMjuPB4rQkOcLC5eSnVUs4Y52tu99b2RBAdcKFXUsaAW72SaXzJHsl76WaeDlWQSdA.jpg",
+    "source": "https://t.me/chisto_academy/1010",
+    "size": [
+      600,
+      800
+    ]
+  },
+  {
+    "name": "post-1014",
+    "url": "https://cdn4.telesco.pe/file/osaQsqeyk0cnXmq1NDOmgqjWNSNhAKNDnFGhlyt3p2adFc1eeMSJSNP-pYH-Y2pUUoZmdGeLD8aK9rJdel4NdQbu6UDO9ITBV6OUTXNnKS-5TD0Dda3jjTlGydfd8YEi0gMGvGp8jaZC26Kt2hJ6KkLEqOrXbna7Pmf4DkeFgfWKmvC-LkHqXFMkbb1c--OOcPLjOH3PSYABa2L7joErzM3CzGUSDcwesPuznq9klTRvXpnh_tPcioxo-ZjHyjLocg8Uxypzeh1UkAqy8j34fM0GsnlWnqWthCFQRheoe3IOnb31LpB-C80KXQtku1jfX6FHVr0sGNFdBt9N03abxg.jpg",
+    "source": "https://t.me/chisto_academy/1014",
+    "size": [
+      600,
+      800
+    ]
+  },
+  {
+    "name": "post-1015",
+    "url": "https://cdn4.telesco.pe/file/KifFwRyP3RLgbcxVU1BEWxkxYYK0ZW5kpftFLSLImE7pHpnLvncdwU1GsJwWbXxDj3Gwxju1SPjI-u6IrodAJNYSyri9VogK9_V8ciZFZwGUKtM4HNeGnInNPvtftsqwxDulxpGFnMDFVMuMxW2YtOybIxMblZVKWbLlH152HO40jE1u7_2UfdA2sSHP2o1HHz2Ri5-XnbtcC2Z245oOE3tC6tEOmDVaDkKcwuLHy0PswppAUNYktd7lhwPaq-yx0iCojKHWxHjUhzs64zDLTz2buPJ4Br1euidrFpA-D0stQGoSiQ80DENidGMFubWxvMt_TXIOOV8oRodhbIh9hw.jpg",
+    "source": "https://t.me/chisto_academy/1015",
+    "size": [
+      600,
+      800
+    ]
+  },
+  {
+    "name": "post-1016",
+    "url": "https://cdn4.telesco.pe/file/i0MBx4HTcjEx73-9ykmigIUUp8APdUiBS9ZM4QKibeS24H-ZTJbDEKbFThTmdvhg-VVeiZFtLLOXMW31EZLVnCbe2QHs6481WYVjpLi3u-ubOMn71XgFk-_W4qVER20dHliZ0sYB83C5M8gbN4oL7QkK0bjsKUDH54iLf87Yn524PzUnTqilU8QtHLYKMv8P5uPOKxFN7rBRN7H_zmxbeAtWDUKvXAyccOsA5IFRJYp9D7QyjO-M997u1YWfT9mpB3F11Equ2xj4Lwt7_mUJu0ScHYPJ1t8gR7uLFKSHunsYyoqiW9Ll_e6pWOiysZNGENif-fiKqbQLHXbNnzzdNA.jpg",
+    "source": "https://t.me/chisto_academy/1016",
+    "size": [
+      600,
+      800
+    ]
+  },
+  {
+    "name": "post-1017",
+    "url": "https://cdn4.telesco.pe/file/A2wlCddbw23poLSaZl4JZPj-VcdWyX2WyhMwIf2-7fHWx3MDFBfZyKncSYRO3KhCFRqDgNMBSQ6wm0RXZPLGcc5F6RokBEyzU9wUe0G2YiQDbKG5XC2-9DoI3vHQFWvlFv4HdGcHdrow6TE4aV9-Iq6z81KoL3qdYK47P_xrafut5w0P2t_YLstfV0Ou2vxLwEkKbVQn387U0ZLWN_4pt7miFWfk2kjmuHli7qRQrCxLhW8Kg18412HGbvk8KEhRdnkLJHz2I9JQifSlJO-aAw_HGVwLXgXmCGFG6CJRC55cK9WEbjlI6gAJdR3faumvVMjZIHrGtsmDDhSWasN3aQ.jpg",
+    "source": "https://t.me/chisto_academy/1017",
+    "size": [
+      600,
+      800
+    ]
+  },
+  {
+    "name": "post-1021",
+    "url": "https://cdn4.telesco.pe/file/idAJOPTRsOuRVCwsaiaCB0IuCV8wZ_-crwjXiiJjudNnYMSx3rDMz1C-WPAeMzPbN6WJzI_atAMMDSjeeiwB0w1LRV87_Wzth_dDwRZASB4367fiQxg_fSDnr9jtdyOBpL0YCRk9q51a6gLQTBA553KTGWIns4FRyQHeRK8Ol77jkSjYY4ka-n1o-JWOG4trqvhCXtdD2P9TK9zgOyMPKNUui5VlgRtFDG0yC-_TNF9Y8XCt1DtjXRIihZGf6OfoFR9zG9eZURR6Ki5NgbYE97BX2iIVs0VSdI3ikXwVNqfFQPTF-Rb9dn9PkZKjti8VSQPT8WB8PynveoB2eVxe8g.jpg",
+    "source": "https://t.me/chisto_academy/1021",
+    "size": [
+      600,
+      800
+    ]
+  },
+  {
+    "name": "post-1022",
+    "url": "https://cdn4.telesco.pe/file/Z85UgauiBRHcE8i5nDq004GiUzx2y6fqqCF3ulqqrO31Twa8d0_aycg4COMQyvWKetLvM8WGmvGHxnos9TljY12CfUFL33psRNhFxGNmRUz6eBMa71QEpO_eglmr0ruyOSNWf1nHTjoASfps9Swt6K_lSEMPeTrT1BM8sTMw31es-QlWKaipPHG8_YX2xhhhM1NhPqBsflW07o0WlHOENgSY-PGm2Q2tlq6d5XdvXFOwkWql7T8nBDdD5VZSpfdQ1PEhfC5KulND46aQSWWFohtIt7lTBhIFhyxKHeRiOIgxf7TzWsXr_jCST-6nPcB4u25KLMPKSUhf_LVL8hWvNw.jpg",
+    "source": "https://t.me/chisto_academy/1022",
+    "size": [
+      600,
+      800
+    ]
+  },
+  {
+    "name": "post-657",
+    "source": "https://t.me/chisto_academy/657",
+    "note": "Public photograph from Nikita channel; downloaded via channel search."
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "name": "chistoteka",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build && node tools/prerender.mjs",
+    "check": "node tools/check.mjs",
+    "preview": "vite preview --host 127.0.0.1"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2",
+    "vite": "^7.2.2"
+  }
+}
